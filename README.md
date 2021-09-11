@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Hello there!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  <a href="#"><img src="https://github.com/utkarshb1/utkarshb1/blob/5d46f6da8b655f7a32d3ac0c3ab64d5cef3034b2/wave.gif" width="48"></a>
 </h1>
 
 <!-- # Hello, folks! <img src="https://github.com/utkarshb1/utkarshb1/blob/5d46f6da8b655f7a32d3ac0c3ab64d5cef3034b2/wave.gif" width="30px"> -->
