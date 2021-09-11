@@ -13,7 +13,7 @@
   <img align="left" alt="Utkarsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1) -->
 
 <img align="right" alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/f024330368fa75d7402c006ba29cf912c7e3635c/antnodeskdb.gif" width="300" height="220" />
 
