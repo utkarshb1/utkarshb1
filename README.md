@@ -15,7 +15,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1) -->
 
-<img align="right" alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/e731d6a71e113f025a360a8c399de4a59bc6506d/antnodeskdb.gif" width="250" height="250" /><br/>
+<img align="right" alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/e731d6a71e113f025a360a8c399de4a59bc6506d/antnodeskdb.gif" width="250" height="230" /><br/>
 
 ### 💻 &nbsp;About Me 
   - From Ramtek, MH
