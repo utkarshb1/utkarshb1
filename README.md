@@ -37,3 +37,6 @@
 </a>
 
 *Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
+<p align = "center">
+<img alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/8bd1b0657f7998b4241b0659f0ff8443b4031923/github.gif" width="250" height="180" /><br/>
+</p>
