@@ -13,7 +13,6 @@
   <img align="left" alt="Utkarsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1) -->
 
 <img align="right" alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/e731d6a71e113f025a360a8c399de4a59bc6506d/antnodeskdb.gif" width="250" height="230" /><br/>
 
@@ -40,3 +39,4 @@
 <p align = "center">
 <img alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/8bd1b0657f7998b4241b0659f0ff8443b4031923/github.gif" width="250" height="180" /><br/>
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1)
