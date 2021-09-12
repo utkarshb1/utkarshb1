@@ -39,4 +39,7 @@
 <p align = "center">
 <img alt="GIF" src="https://github.com/utkarshb1/utkarshb1/blob/8bd1b0657f7998b4241b0659f0ff8443b4031923/github.gif" width="250" height="180" /><br/>
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1)
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1) -->
+
+![Visitors](https://badges.pufler.dev/visits/utkarshb1/utkarshb1)
