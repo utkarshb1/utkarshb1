@@ -42,4 +42,4 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=utkarshb1.utkarshb1) -->
 
-![Visitors](https://badges.pufler.dev/visits/utkarshb1/utkarshb1)
+<!-- ![Visitors](https://badges.pufler.dev/visits/utkarshb1/utkarshb1) -->
