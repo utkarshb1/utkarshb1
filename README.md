@@ -18,7 +18,8 @@
 
 ### 💻 &nbsp;About Me 
   - From Ramtek, MH
-  - VLSI Enthusiast, open to work in Verification.
+  - Associate Engineer | Verification @Qualcomm
+  - VLSI Enthusiast
   - Graduate from Indian Institute of Information Technology Nagpur
   - ⚡ Connect to Know More!
 
